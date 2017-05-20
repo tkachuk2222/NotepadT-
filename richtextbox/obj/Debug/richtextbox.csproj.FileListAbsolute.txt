@@ -1,0 +1,44 @@
+c:\users\temp.it-step.002\documents\visual studio 2015\Projects\richtextbox\richtextbox\bin\Debug\richtextbox.exe.config
+c:\users\temp.it-step.002\documents\visual studio 2015\Projects\richtextbox\richtextbox\bin\Debug\richtextbox.exe
+c:\users\temp.it-step.002\documents\visual studio 2015\Projects\richtextbox\richtextbox\bin\Debug\richtextbox.pdb
+c:\users\temp.it-step.002\documents\visual studio 2015\Projects\richtextbox\richtextbox\obj\Debug\richtextbox.csprojResolveAssemblyReference.cache
+c:\users\temp.it-step.002\documents\visual studio 2015\Projects\richtextbox\richtextbox\obj\Debug\richtextbox.Form1.resources
+c:\users\temp.it-step.002\documents\visual studio 2015\Projects\richtextbox\richtextbox\obj\Debug\richtextbox.Properties.Resources.resources
+c:\users\temp.it-step.002\documents\visual studio 2015\Projects\richtextbox\richtextbox\obj\Debug\richtextbox.csproj.GenerateResource.Cache
+c:\users\temp.it-step.002\documents\visual studio 2015\Projects\richtextbox\richtextbox\obj\Debug\richtextbox.exe
+c:\users\temp.it-step.002\documents\visual studio 2015\Projects\richtextbox\richtextbox\obj\Debug\richtextbox.pdb
+D:\навчання\c#\шаг\WindowsForms\richtextbox\richtextbox\bin\Debug\richtextbox.exe.config
+D:\навчання\c#\шаг\WindowsForms\richtextbox\richtextbox\obj\Debug\richtextbox.exe
+D:\навчання\c#\шаг\WindowsForms\richtextbox\richtextbox\obj\Debug\richtextbox.pdb
+D:\навчання\c#\шаг\WindowsForms\richtextbox\richtextbox\bin\Debug\richtextbox.exe
+D:\навчання\c#\шаг\WindowsForms\richtextbox\richtextbox\bin\Debug\richtextbox.pdb
+D:\навчання\c#\шаг\WindowsForms\richtextbox\richtextbox\obj\Debug\richtextbox.csprojResolveAssemblyReference.cache
+D:\навчання\c#\шаг\WindowsForms\richtextbox\richtextbox\obj\Debug\richtextbox.Form1.resources
+D:\навчання\c#\шаг\WindowsForms\richtextbox\richtextbox\obj\Debug\richtextbox.Properties.Resources.resources
+D:\навчання\c#\шаг\WindowsForms\richtextbox\richtextbox\obj\Debug\richtextbox.csproj.GenerateResource.Cache
+D:\tkachuk\c#\windows forms\NotepadT-master\richtextbox\bin\Debug\richtextbox.exe.config
+D:\tkachuk\c#\windows forms\NotepadT-master\richtextbox\obj\Debug\richtextbox.exe
+D:\tkachuk\c#\windows forms\NotepadT-master\richtextbox\obj\Debug\richtextbox.pdb
+D:\tkachuk\c#\windows forms\NotepadT-master\richtextbox\bin\Debug\richtextbox.exe
+D:\tkachuk\c#\windows forms\NotepadT-master\richtextbox\bin\Debug\richtextbox.pdb
+D:\tkachuk\c#\windows forms\NotepadT-master\richtextbox\obj\Debug\richtextbox.csprojResolveAssemblyReference.cache
+D:\tkachuk\c#\windows forms\NotepadT-master\richtextbox\obj\Debug\richtextbox.Form1.resources
+D:\tkachuk\c#\windows forms\NotepadT-master\richtextbox\obj\Debug\richtextbox.Properties.Resources.resources
+D:\tkachuk\c#\windows forms\NotepadT-master\richtextbox\obj\Debug\richtextbox.csproj.GenerateResource.Cache
+D:\tkachuk\c#\windows forms\NotepadT-master\richtextbox\obj\Debug\richtextbox.ForText.resources
+D:\навчання\c#\шаг\WindowsForms\NotepadT++\richtextbox\bin\Debug\richtextbox.exe.config
+D:\навчання\c#\шаг\WindowsForms\NotepadT++\richtextbox\obj\Debug\richtextbox.exe
+D:\навчання\c#\шаг\WindowsForms\NotepadT++\richtextbox\obj\Debug\richtextbox.pdb
+D:\навчання\c#\шаг\WindowsForms\NotepadT++\richtextbox\bin\Debug\richtextbox.exe
+D:\навчання\c#\шаг\WindowsForms\NotepadT++\richtextbox\bin\Debug\richtextbox.pdb
+D:\навчання\c#\шаг\WindowsForms\NotepadT++\richtextbox\obj\Debug\richtextbox.csprojResolveAssemblyReference.cache
+D:\навчання\c#\шаг\WindowsForms\NotepadT++\richtextbox\obj\Debug\richtextbox.Form1.resources
+D:\навчання\c#\шаг\WindowsForms\NotepadT++\richtextbox\obj\Debug\richtextbox.ForText.resources
+D:\навчання\c#\шаг\WindowsForms\NotepadT++\richtextbox\obj\Debug\richtextbox.Properties.Resources.resources
+D:\навчання\c#\шаг\WindowsForms\NotepadT++\richtextbox\obj\Debug\richtextbox.csproj.GenerateResource.Cache
+D:\навчання\c#\шаг\WindowsForms\NotepadT++\richtextbox\bin\Debug\en-US\richtextbox.resources.dll
+D:\навчання\c#\шаг\WindowsForms\NotepadT++\richtextbox\bin\Debug\uk\richtextbox.resources.dll
+D:\навчання\c#\шаг\WindowsForms\NotepadT++\richtextbox\obj\Debug\richtextbox.Form1.en-US.resources
+D:\навчання\c#\шаг\WindowsForms\NotepadT++\richtextbox\obj\Debug\richtextbox.Form1.uk.resources
+D:\навчання\c#\шаг\WindowsForms\NotepadT++\richtextbox\obj\Debug\en-US\richtextbox.resources.dll
+D:\навчання\c#\шаг\WindowsForms\NotepadT++\richtextbox\obj\Debug\uk\richtextbox.resources.dll
